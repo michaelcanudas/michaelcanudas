@@ -4,11 +4,11 @@ AKA: Michael Canudas
 
 ## About Me
 
-About me
+Hey! My name is Michael Canudas, and I am a programmer from New York. I started learning programming when I was just 12 years old, and have been advancing my skills ever since. I currently know c#, typescript, javascript, swift, golang, python, and java. I have experience using different applications/librarys such as Unity, JavaFX, and React. My favorite things to create are games and webapps, however I am always interested in creating other applications as well.
 
 ## About Projects
 
-Here is how "Project Difficulty" ratings work:
+As you will soon find, all of my projects on GitHub have a README with a section titled "Info". In this section, you will find a label "Project Difficulty". This is a rating I give to my projects which explains how difficult it was for me, and what I learned/practiced/mastered. Below, you can find a chart explaining all of the ratings:
 
 | Rating Number | Rating Definition                                                                                                                    |
 | :------------ | :----------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +21,3 @@ Here is how "Project Difficulty" ratings work:
 | 7 / 9         | Moderatly advanced project, took a long amount of time, practiced known skills, advanced skills, learned new skills                  |
 | 8 / 9         | Advanced project, took a very long amount of time, practiced known skills, advanced skills, learned new skills, mastered a skill     |
 | 9 / 9         | Advanced project, took a very long amount of time, practiced known skills, advanced skills, learned new skills, mastered some skills |
-
-## Live Projects
-
-About me
