@@ -6,7 +6,22 @@ AKA: Michael Canudas
 
 Hey! My name is Michael Canudas, and I am a programmer from New York. I started learning programming when I was just 12 years old, and have been advancing my skills ever since. I currently know c++, typescript, javascript, swift, python, and java. However, I am most advanced in c# and golang. I have experience using different applications/librarys such as Unity, JavaFX, Fiber, React and Svelte. My favorite things to create are games and webapps, however I am always interested in creating other applications as well.
 
-## About Projects
+## My stack
+
+I have a very specific taste when it comes to picking a tech stack for my applications. Here is a chart of all of my prefered technologies:
+| System                 | Tool                             |
+| :--------------------- | :------------------------------- |
+| Frontend (Web)         | JavaScript, SvelteKit            |
+| Frontend (Mobile)      | JavaScript, Capacitor, Svelte    |
+| Frontend (Desktop)     | JavaScript, Electron, Svelte     |
+| API                    | REST, HTTP/2                     |
+| Backend (API)          | Rust, Rocket                     |
+| Backend (Database)     | PostgresSQL, Redis               |
+| Backend (File Storage) | CDN                              |
+| Hosting                | DigitalOcean                     |
+
+
+## My Projects
 
 As you will soon find, all of my projects on GitHub have a README with a section titled "Info". In this section, you will find a label "Project Difficulty". This is a rating I give to my projects which explains how difficult it was for me, and what I learned/practiced/mastered. Below, you can find a chart explaining all of the ratings:
 
