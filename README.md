@@ -14,8 +14,8 @@ I have a very specific taste when it comes to picking a tech stack for my applic
 | Frontend (Web)         | JavaScript, SvelteKit            |
 | Frontend (Mobile)      | JavaScript, Capacitor, Svelte    |
 | Frontend (Desktop)     | JavaScript, Electron, Svelte     |
-| API                    | REST, HTTP/2                     |
-| Backend (API)          | Rust, Rocket, Microservices      |
+| API                    | REST, Websockets                 |
+| Backend (API)          | Golang, Microservices            |
 | Backend (Database)     | PostgresSQL, Redis               |
 | Backend (File Storage) | CDN                              |
 | Hosting                | DigitalOcean                     |
