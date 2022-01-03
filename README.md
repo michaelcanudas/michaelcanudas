@@ -10,7 +10,7 @@ Hey! My name is Michael Canudas, and I am a programmer from New York. I started 
 
 I have a very specific taste when it comes to picking a tech stack for my applications. Here is a chart of all of my prefered technologies:
 | System                 | Tool                             |
-| ---------------------: | -------------------------------: |
+| :--------------------- | :------------------------------- |
 | Frontend (Web)         | JavaScript, SvelteKit            |
 | Frontend (Mobile)      | JavaScript, Capacitor, Svelte    |
 | Frontend (Desktop)     | JavaScript, Electron, Svelte     |
