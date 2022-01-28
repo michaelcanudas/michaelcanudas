@@ -21,6 +21,7 @@ I have a very specific taste when it comes to picking a tech stack for my applic
 | Hosting                | DigitalOcean                     |
 
 
+<!--
 ## My Projects
 
 As you will soon find, all of my projects on GitHub have a README with a section titled "Info". In this section, you will find a label "Project Difficulty". This is a rating I give to my projects which explains how difficult it was for me, and what I learned/practiced/mastered. Below, you can find a chart explaining all of the ratings:
@@ -36,3 +37,4 @@ As you will soon find, all of my projects on GitHub have a README with a section
 | 7 / 9         | Moderatly advanced project, took a long amount of time, practiced known skills, advanced skills, learned new skills                  |
 | 8 / 9         | Advanced project, took a very long amount of time, practiced known skills, advanced skills, learned new skills, mastered a skill     |
 | 9 / 9         | Advanced project, took a very long amount of time, practiced known skills, advanced skills, learned new skills, mastered some skills |
+-->
