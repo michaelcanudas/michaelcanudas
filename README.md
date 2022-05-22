@@ -1,6 +1,4 @@
-# PatAPizza56
-
-AKA: Michael Canudas
+# Michael Canudas
 
 ## About Me
 
