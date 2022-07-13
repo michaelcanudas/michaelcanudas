@@ -4,6 +4,7 @@
 
 Hey! My name is Michael Canudas, and I am a programmer from New York. I started learning programming when I was just 12 years old, and have been advancing my skills ever since. I currently know c++, typescript, javascript, swift, python, and java. However, I am most advanced in c# and golang. I have experience using different applications/librarys such as Unity, JavaFX, Fiber, React and Svelte. My favorite things to create are games and webapps, however I am always interested in creating other applications as well.
 
+<!--
 ## My stack
 
 I have a very specific taste when it comes to picking a tech stack for my applications. Here is a chart of all of my prefered technologies:
@@ -17,7 +18,7 @@ I have a very specific taste when it comes to picking a tech stack for my applic
 | Backend (Database)     | PostgresSQL, Redis               |
 | Backend (File Storage) | CDN                              |
 | Hosting                | DigitalOcean                     |
-
+-->
 
 <!--
 ## My Projects
